@@ -24,7 +24,7 @@ pip install numpy matplotlib
 ## Usage
 
 ```bash
-python 456_project.py
+python Euler_MOL_HEat_EQ.py
 ```
 
 ## Output
